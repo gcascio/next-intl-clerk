@@ -1,6 +1,7 @@
 {
     "home": {
-        "title": "next-intl Clerk example"
+        "title": "next-intl Clerk example",
+        "toDashboard": "Go to Dashboard"
     },
     "dashboard": {
         "title": "Welcome to the Dashboard"
